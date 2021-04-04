@@ -36,6 +36,10 @@ ul{
     font-size: 30px;
 }
 
+ul.show{
+    display: block;
+}
+
 li{
     text-decoration: none;
 }
@@ -192,8 +196,8 @@ a{
 
     ul {
         display: none;
-        background-color: #2b2c38;
-        margin: 0ppx;
+        background-color: #e27222;
+        margin: 0px;
     }
 
     ul.show {
@@ -203,7 +207,7 @@ a{
     nav {
         display: flex;
         flex-direction: column-reverse;
-        background-color: #2b2c38;
+        background-color: #e27222;
     }
 
     .logo {
