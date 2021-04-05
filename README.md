@@ -1,5 +1,7 @@
 For this assignment, we were tasked with completing an updated version of our working portfolio.  This assignment I especially enjoyed because I was able to put into  practice all of the tricks of HTML, CSS and JavaScript that we have been learning over the past weeks.  It also pushed me to be on top of my social media accounts, and even though I have little professional experience in the coding field, I now have the ground work laid out for future improvements to my professional portfolio.
 
+URL for site: https://atn362.github.io/updated-portfolio/
+
 Video of working site:
 <iframe src="https://drive.google.com/file/d/17TMXjjDBAxZTih4IyoQL5ZCzNsjwD4d4/preview" width="640" height="480"></iframe>
 
