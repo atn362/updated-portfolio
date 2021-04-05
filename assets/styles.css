@@ -63,6 +63,14 @@ p{
     font-weight: 300;
 }
 
+@media only screen and (max-width: 1000px) {
+    .main-area{
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
+
 .main-area{
     display: flex;
     height: 100%;
@@ -116,6 +124,16 @@ p{
     justify-content: space-around;
     padding: 60px;
 }
+
+@media only screen and (max-width: 1000px) {
+    .sub-section{
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column-reverse;
+        
+    }
+}
+
 
 .sub-section-alternative{
     display: flex;
