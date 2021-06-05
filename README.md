@@ -10,7 +10,7 @@
 
 # Description
 
-An updated portfolio with links to my professional user accounts such as gitHub and Linkedin.  Along with these links, I have included a short summary about myself, 
+An updated portfolio with links to my professional user accounts such as gitHub and LinkedIn.  Along with these links, I have included a short summary about myself, 
 my contact information, a pdf file of my resume and a few projects I've created and contributed to while in the bootCamp.
 
 # Images
@@ -21,10 +21,6 @@ my contact information, a pdf file of my resume and a few projects I've created 
 ![screenshot4](https://user-images.githubusercontent.com/77468756/120897782-783b3800-c5ed-11eb-916a-3841c24cc66f.png)
 ![screenshot5](https://user-images.githubusercontent.com/77468756/120897783-7a04fb80-c5ed-11eb-97e6-be637a2f8cf1.png)
 ![screenshot6](https://user-images.githubusercontent.com/77468756/120897784-7b362880-c5ed-11eb-9bec-767c66026843.png)
-
-
-# Usage
-In order to use this app, run the app in the:
 
 # License
 Which license have you chosen for this project? Licensed under the MIT badge/link.
