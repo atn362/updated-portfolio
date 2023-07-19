@@ -102,9 +102,20 @@ p {
   color: #808080;
 }
 
-.socials {
+/* .socials {
   padding-bottom: 200px;
   margin: 30px;
+} */
+
+.socials {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 30px; /* Add margin to align the social icons on the right side */
+}
+
+.social {
+  margin: 10px;
 }
 
 .logo {
@@ -270,3 +281,72 @@ a {
   width: 100%;
   height: 100%;
 }
+
+/* Existing CSS Rules... */
+
+@media only screen and (max-width: 1000px) {
+  .main-area {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .main-text {
+    margin: 20px;
+  }
+
+  .socials {
+    padding-bottom: 20px;
+  }
+
+  .logo {
+    height: 60px;
+    margin: 10px;
+  }
+
+  .hamburger {
+    display: block;
+  }
+
+  ul {
+    display: none;
+    background-color: #e27222;
+    margin: 0px;
+    width: 100%;
+  }
+
+  ul.show {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  nav {
+    background-color: #e27222;
+  }
+
+  .sub-section {
+    padding: 40px;
+  }
+
+  .headshot {
+    width: 200px;
+    height: 200px;
+  }
+
+  .project-container {
+    flex-direction: column;
+  }
+
+  .project-card {
+    width: 90%;
+    height: auto;
+    margin: 10px auto;
+  }
+
+  .project-image {
+    height: 100px;
+    width: 150px;
+  }
+}
+
